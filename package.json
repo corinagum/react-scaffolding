@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/corinagum/react-scaffolding#readme",
   "devDependencies": {
-    "typescript": "^4.9.0-dev.20220824"
+    "typescript": "^4.8.4"
   }
 }
