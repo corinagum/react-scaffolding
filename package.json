@@ -1,0 +1,29 @@
+{
+  "name": "react-scaffolding",
+  "version": "0.0.1",
+  "description": "Intuitive and lightweight containers using e.g. flex",
+  "main": ".",
+  "scripts": {
+    "test": "echo NEED TESTS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corinagum/react-scaffolding.git"
+  },
+  "keywords": [
+    "flex",
+    "react",
+    "react-dom",
+    "dom",
+    "containers"
+  ],
+  "author": "Corina Gum <corinagum@microsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corinagum/react-scaffolding/issues"
+  },
+  "homepage": "https://github.com/corinagum/react-scaffolding#readme",
+  "devDependencies": {
+    "typescript": "^4.9.0-dev.20220824"
+  }
+}
